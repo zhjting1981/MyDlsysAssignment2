@@ -1,5 +1,5 @@
-from dlsys import autodiff as ad
-from dlsys import ndarray, gpu_op
+from python.dlsys import autodiff as ad
+from python.dlsys import ndarray, gpu_op
 import numpy as np
 
 import argparse

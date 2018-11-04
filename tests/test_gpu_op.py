@@ -1,5 +1,5 @@
 import numpy as np
-from dlsys import ndarray, gpu_op, autodiff
+from python.dlsys import ndarray, gpu_op, autodiff
 
 
 def test_array_set():
